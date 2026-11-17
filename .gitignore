@@ -1,23 +1,3 @@
-commands/backup.py
-commands/estadisticas.py
-commands/limpiar_pdf.py
-commands/normalizar_fechas.py
-commands/resumen_semanal.py
-commands/resumen_semanal.py
-commands/validar_propiedades.py
-commands/validar_vault.py
-commands/vigilante.py
-
-tests/test_estadisticas.py
-tests/test_limpiar_pdf.py
-tests/test_normalizar_fechas.py
-tests/test_resumen_semanal.py
-tests/test_validar_propiedades.py
-tests/test_validar_vault.py
-tests/test_vigilante.py
-
-main.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
